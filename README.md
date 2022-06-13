@@ -1,2 +1,2 @@
-# bz11-pong
-Clon del clásico juego PONG
+# POO
+Tutoriales de programacion orientado a objetos.
